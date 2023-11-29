@@ -1,0 +1,8 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-div {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
